@@ -4,11 +4,10 @@ package example
 
 import org.apache.log4j.{Level, Logger}
 import org.apache.spark.sql.SparkSession
-import scalafx.application.JFXApp
 import swiftvis2.plotting._
 import swiftvis2.plotting.renderer.SwingRenderer
 
-object First extends JFXApp {
+object First extends App {
   Logger.getLogger("org.apache.spark").setLevel(Level.WARN)
 
   // Start spark
