@@ -1,5 +1,13 @@
-// https://github.com/MarkCLewis/SwiftVis2
-// https://github.com/MarkCLewis/SwiftVis2/blob/master/examples/examples.md
+/**
+ * SwiftVis2
+ * Updated: 02/06/2021
+ *
+ * https://github.com/MarkCLewis/SwiftVis2
+ * https://github.com/MarkCLewis/SwiftVis2/blob/master/examples/examples.md
+ * http://dynamicsofprogramming.blogspot.com/2018/08/swiftvis2-and-speed-problems-with.html
+ * https://www.cs.trinity.edu/~mlewis/SwiftVis2/
+ */
+
 package example
 
 import org.apache.log4j.{Level, Logger}
